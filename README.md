@@ -1,4 +1,4 @@
-# How_to_start_synth_DIY
+# How_To_Start_Synth_DIY
 
 My method to realise your own modular synth DIY
 
